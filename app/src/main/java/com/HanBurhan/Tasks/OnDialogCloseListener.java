@@ -1,0 +1,7 @@
+package com.HanBurhan.Tasks;
+
+import android.content.DialogInterface;
+
+public interface OnDialogCloseListener {
+    void OnDialogClose(DialogInterface dialogInterface);
+}
